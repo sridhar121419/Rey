@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SdkMessageProcessingStep Name="Create - Account - Post-operation" SdkMessageProcessingStepId="{3ee364f9-e722-ea11-a810-000d3af26e41}" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PluginTypeName>VS_Solution.Plugins.NewPlugin2019, VS_Solution.Plugins, Version=1.0.7293.9489, Culture=neutral, PublicKeyToken=66ecf7e8dde604c9</PluginTypeName>
+  <PluginTypeId>3de364f9-e722-ea11-a810-000d3af26e41</PluginTypeId>
+  <PrimaryEntity>account</PrimaryEntity>
+  <AsyncAutoDelete>0</AsyncAutoDelete>
+  <FilteringAttributes></FilteringAttributes>
+  <InvocationSource>1</InvocationSource>
+  <Mode>0</Mode>
+  <Rank>1</Rank>
+  <SdkMessageId>{9ebdbb1b-ea3e-db11-86a7-000a3a5473e8}</SdkMessageId>
+  <EventHandlerTypeCode>4602</EventHandlerTypeCode>
+  <Stage>40</Stage>
+  <IsCustomizable>1</IsCustomizable>
+  <IsHidden>0</IsHidden>
+  <SupportedDeployment>0</SupportedDeployment>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <SdkMessageProcessingStepImages>
+    <SdkMessageProcessingStepImage Name="Image">
+      <SdkMessageProcessingStepImageId>{41e364f9-e722-ea11-a810-000d3af26e41}</SdkMessageProcessingStepImageId>
+      <Attributes></Attributes>
+      <EntityAlias>EntityAlias</EntityAlias>
+      <ImageType>1</ImageType>
+      <MessagePropertyName>id</MessagePropertyName>
+      <IsCustomizable>1</IsCustomizable>
+    </SdkMessageProcessingStepImage>
+  </SdkMessageProcessingStepImages>
+</SdkMessageProcessingStep>
