@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PluginAssembly FullName="CRMVSSolution.Plugins, Version=1.0.7293.10875, Culture=neutral, PublicKeyToken=6e134430c5a9ba56" PluginAssemblyId="6f14685f-ee22-ea11-a810-000d3af020c4" CustomizationLevel="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IsolationMode>2</IsolationMode>
+  <SourceType>0</SourceType>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <FileName>/PluginAssemblies/CRMVSSolutionPlugins-6F14685F-EE22-EA11-A810-000D3AF020C4/CRMVSSolutionPlugins.dll</FileName>
+  <PluginTypes />
+</PluginAssembly>
